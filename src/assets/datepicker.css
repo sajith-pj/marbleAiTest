@@ -1,0 +1,6 @@
+.react-daterange-picker__wrapper {
+    border: none;
+}
+.react-daterange-picker__calendar .react-calendar{
+    border: 1px solid rgba(0,0,0,0.05);
+}
